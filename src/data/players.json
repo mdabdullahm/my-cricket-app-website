@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "price": 50000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm medium",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/371500/371597.png"
+  },
+  {
+    "id": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "price": 30000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm off-break",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/341400/341447.png"
+  },
+  {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "price": 20000,
+    "battingStyle": "Left-Hand Bat",
+    "bowlingStyle": "Slow Left-arm orthodox",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319722.png"
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "price": 25000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm off-break",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/364600/364694.png"
+  },
+  {
+    "id": 5,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "price": 90000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm fast",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/364600/364683.png"
+  },
+  {
+    "id": 6,
+    "name": "Jos Buttler",
+    "country": "England",
+    "role": "Wicketkeeper",
+    "price": 10000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "None",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/344300/344383.png"
+  },
+  {
+    "id": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "price": 95000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Leg-break googly",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/321100/321111.png"
+  },
+  {
+    "id": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "price": 87000,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316538.png"
+  },
+  {
+    "id": 9,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "price": 8800,
+    "battingStyle": "Right-Hand Bat",
+    "bowlingStyle": "Right-arm fast",
+    "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320498.png"
+  }
+]
